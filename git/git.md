@@ -1,4 +1,4 @@
-### 查看远程仓库地址  
+### 查看远程仓库地址
 git remote -v
 ### windows git clone输入错误密码被保存后，如何修改
 打开控制面板->用户账户->凭据管理器，windows凭据。  
@@ -10,8 +10,8 @@ git reset --hard 版本号
 ### 修改全局配置
 git config --global user.name "yourname"  
 git config --global user.email "youremail"
-### 修改本地配置
+### 修改本地配置
 git config user.name "yourname"  
 git config user.email "youremail"
-### windows 给文件添加执行权限
+### windows 给文件添加执行权限
 git update-index --chmod=+x exe
